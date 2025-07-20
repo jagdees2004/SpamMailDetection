@@ -59,4 +59,4 @@ This project is open-source under the MIT License.
 
 ---
 
-Want me to include emojis, badges, or auto-generate parts like the requirements file or example predictions? I can do that too!
+
