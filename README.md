@@ -1,6 +1,6 @@
 # SpamMailDetection
-https://spammaildetection-knjagdeessamal.streamlit.app/
-Sure, Jagdees! Here's a neat and informative README you can upload with your spam mail detection project on GitHub—it’ll make your repo stand out and help others understand your work quickly:
+link-https://spammaildetection-knjagdeessamal.streamlit.app/
+
 
 ---
 
