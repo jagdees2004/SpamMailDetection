@@ -18,7 +18,7 @@ This project is a **machine learning-based spam mail detector** built using Pyth
 ### 🗂️ Dataset
 The model is trained on a labeled dataset containing spam and ham emails, stored in a CSV file. Make sure the file `spam.csv` is located in the root directory of the project before running the app.
 
-> If you are using the file uploader method, the user can upload the CSV directly through the interface.
+
 
 ### 🔧 Installation & Setup
 ```bash
@@ -35,8 +35,8 @@ pip install -r requirements.txt
 streamlit run SpamDetection.py
 ```
 
-### 🖼️ Screenshots
-_Add screenshots of your app’s interface and prediction results here to show what it looks like._
+
+
 
 ### 🧠 How It Works
 1. Emails are converted into numerical vectors using `CountVectorizer`.
