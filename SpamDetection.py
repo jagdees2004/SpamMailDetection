@@ -27,7 +27,7 @@ input_mess=st.text_input('Enter message here')
 if st.button('validate'):
     output = predict(input_mess)
     if output[0]=='Spam':
-        st.write('spam')
+        st.success('spam')
     else:
-        st.write('Not Spam')    
+        st.success('Not Spam')    
 
